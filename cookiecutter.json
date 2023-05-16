@@ -1,0 +1,10 @@
+{
+  "project_name": "my_project",
+  "ros2_version": "humble",
+  "project_short_description": "TODO: Project Short Description",
+  "author": "John Doe",
+  "author_email": "john@doe.com",
+  "_extensions": [
+    "jinja2_stringcase.StringCaseExtension"
+  ]
+}
